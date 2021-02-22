@@ -1,0 +1,22 @@
+{
+"products": [{"id":1,"name":"Common wallaroo","category":"Yellow"},
+{"id":2,"name":"Sheep, red","category":"Turquoise"},
+{"id":3,"name":"Bear, polar","category":"Maroon"},
+{"id":4,"name":"Pigeon, feral rock","category":"Orange"},
+{"id":5,"name":"Cougar","category":"Yellow"},
+{"id":6,"name":"Impala","category":"Turquoise"},
+{"id":7,"name":"Bat-eared fox","category":"Goldenrod"},
+{"id":8,"name":"Francolin, coqui","category":"Purple"},
+{"id":9,"name":"Black-cheeked waxbill","category":"Green"},
+{"id":10,"name":"Dunnart, fat-tailed","category":"Green"},
+{"id":11,"name":"Savannah deer (unidentified)","category":"Khaki"},
+{"id":12,"name":"Mynah, indian","category":"Puce"},
+{"id":13,"name":"Dolphin, striped","category":"Turquoise"},
+{"id":14,"name":"Asiatic wild ass","category":"Crimson"},
+{"id":15,"name":"Gray rhea","category":"Mauv"},
+{"id":16,"name":"Cliffchat, mocking","category":"Fuscia"},
+{"id":17,"name":"Chimpanzee","category":"Aquamarine"},
+{"id":18,"name":"Two-toed tree sloth","category":"Crimson"},
+{"id":19,"name":"Purple moorhen","category":"Red"},
+{"id":20,"name":"Armadillo, giant","category":"Fuscia"}]
+}
